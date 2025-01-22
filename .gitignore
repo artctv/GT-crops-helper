@@ -1,0 +1,35 @@
+
+# Log files
+**/logs
+
+
+## environments
+.env
+.venv
+
+
+# Python
+
+## bytecode
+*.pyc
+*.pyo
+
+## cache
+**/__pycache__/
+
+## Test stuff
+.coverage
+.pytest_cache
+
+# Managment
+.python-version
+
+
+# IDE/Code specific
+.idea
+.atom
+.vscode
+
+
+# Local dev stuff
+/local/

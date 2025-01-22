@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "gt-crops-helper"
+version = "0.0.1"
+description = "Tool for manage crops from IC2, Gregtech mods"
+authors = ["Artem 'artctv' <artctvcode@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.2.2"
+pandas = "^2.2.3"
+pysimplegui = "^5.0.8"
+
+
+[tool.poetry.group.dev.dependencies]
+psgcompiler = "^5.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
