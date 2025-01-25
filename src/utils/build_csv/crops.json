@@ -1,0 +1,1248 @@
+[
+    {
+        "id": 2,
+        "name": "Wheat",
+        "rus": "пшеница",
+        "tier": 1,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 0,
+            "col": 0,
+            "wee": 2
+        },
+        "attributes": "Yellow Food Wheat",
+        "mod": "ic2"
+    },
+    {
+        "id": 1,
+        "name": "Weed",
+        "rus": "",
+        "tier": 0,
+        "stats": {
+            "che": 0,
+            "foo": 0,
+            "def": 1,
+            "col": 0,
+            "wee": 5
+        },
+        "attributes": "Weed Bad",
+        "mod": "ic2"
+    },
+    {
+        "id": 3,
+        "name": "Venomilia",
+        "rus": "",
+        "tier": 3,
+        "stats": {
+            "che": 3,
+            "foo": 1,
+            "def": 3,
+            "col": 3,
+            "wee": 3
+        },
+        "attributes": "Purple Flower Tulip Poison",
+        "mod": "ic2"
+    },
+    {
+        "id": 4,
+        "name": "TerraWart",
+        "rus": "",
+        "tier": 5,
+        "stats": {
+            "che": 2,
+            "foo": 4,
+            "def": 0,
+            "col": 3,
+            "wee": 0
+        },
+        "attributes": "Blue Aether Consumable Snow",
+        "mod": "ic2"
+    },
+    {
+        "id": 5,
+        "name": "Stickreed",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 1,
+            "col": 0,
+            "wee": 1
+        },
+        "attributes": "Reed Resin",
+        "mod": "ic2"
+    },
+    {
+        "id": 6,
+        "name": "Stagnium",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 0,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Shiny Leaves Metal",
+        "mod": "ic2"
+    },
+    {
+        "id": 7,
+        "name": "Shining",
+        "rus": "",
+        "tier": 8,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Silver Leaves Metal",
+        "mod": "ic2"
+    },
+    {
+        "id": 8,
+        "name": "Reed",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 0,
+            "foo": 0,
+            "def": 1,
+            "col": 0,
+            "wee": 2
+        },
+        "attributes": "Reed",
+        "mod": "ic2"
+    },
+    {
+        "id": 9,
+        "name": "Redwheat",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Red Redstone Wheat",
+        "mod": "ic2"
+    },
+    {
+        "id": 10,
+        "name": "RedMushroom",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 0,
+            "col": 0,
+            "wee": 4
+        },
+        "attributes": "Red Food Mushroom",
+        "mod": "ic2"
+    },
+    {
+        "id": 11,
+        "name": "Pumpkin",
+        "rus": "",
+        "tier": 1,
+        "stats": {
+            "che": 0,
+            "foo": 1,
+            "def": 0,
+            "col": 3,
+            "wee": 1
+        },
+        "attributes": "Orange Decoration Stem",
+        "mod": "ic2"
+    },
+    {
+        "id": 12,
+        "name": "Potato",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 0,
+            "col": 0,
+            "wee": 2
+        },
+        "attributes": "Yellow Food Potato",
+        "mod": "ic2"
+    },
+    {
+        "id": 13,
+        "name": "Plumbiscus",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 0,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Dense Leaves Metal",
+        "mod": "ic2"
+    },
+    {
+        "id": 14,
+        "name": "NetherWart",
+        "rus": "",
+        "tier": 5,
+        "stats": {
+            "che": 4,
+            "foo": 2,
+            "def": 0,
+            "col": 2,
+            "wee": 1
+        },
+        "attributes": "Red Nether Ingredient Soulsand",
+        "mod": "ic2"
+    },
+    {
+        "id": 15,
+        "name": "Melon",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Green Food Stem",
+        "mod": "ic2"
+    },
+    {
+        "id": 16,
+        "name": "Hops",
+        "rus": "",
+        "tier": 5,
+        "stats": {
+            "che": 2,
+            "foo": 2,
+            "def": 0,
+            "col": 1,
+            "wee": 1
+        },
+        "attributes": "Green Ingredient Wheat",
+        "mod": "ic2"
+    },
+    {
+        "id": 17,
+        "name": "Ferru",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 0,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Gray Leaves Metal",
+        "mod": "ic2"
+    },
+    {
+        "id": 18,
+        "name": "Eatingplant",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 3,
+            "col": 1,
+            "wee": 4
+        },
+        "attributes": "Bad Food",
+        "mod": "ic2"
+    },
+    {
+        "id": 19,
+        "name": "Cyprium",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 0,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Orange Leaves Metal",
+        "mod": "ic2"
+    },
+    {
+        "id": 20,
+        "name": "Dandelion",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 5,
+            "wee": 1
+        },
+        "attributes": "Yellow Flower",
+        "mod": "ic2"
+    },
+    {
+        "id": 21,
+        "name": "Rose",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 5,
+            "wee": 1
+        },
+        "attributes": "Red Flower Rose",
+        "mod": "ic2"
+    },
+    {
+        "id": 22,
+        "name": "Blackthorn",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 5,
+            "wee": 1
+        },
+        "attributes": "Black Flower Rose",
+        "mod": "ic2"
+    },
+    {
+        "id": 23,
+        "name": "Tulip",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 5,
+            "wee": 1
+        },
+        "attributes": "Purple Flower Rose",
+        "mod": "ic2"
+    },
+    {
+        "id": 24,
+        "name": "Cyazint",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 5,
+            "wee": 1
+        },
+        "attributes": "Blue Flower",
+        "mod": "ic2"
+    },
+    {
+        "id": 25,
+        "name": "Coffee",
+        "rus": "",
+        "tier": 7,
+        "stats": {
+            "che": 1,
+            "foo": 4,
+            "def": 1,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Leaves Ingrident Beans",
+        "mod": "ic2"
+    },
+    {
+        "id": 26,
+        "name": "Cocoa",
+        "rus": "",
+        "tier": 3,
+        "stats": {
+            "che": 1,
+            "foo": 3,
+            "def": 0,
+            "col": 4,
+            "wee": 0
+        },
+        "attributes": "Brown Food Stem",
+        "mod": "ic2"
+    },
+    {
+        "id": 27,
+        "name": "Carrots",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 0,
+            "col": 0,
+            "wee": 2
+        },
+        "attributes": "Orange Food Carrots",
+        "mod": "ic2"
+    },
+    {
+        "id": 28,
+        "name": "BrownMushroom",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 0,
+            "col": 0,
+            "wee": 4
+        },
+        "attributes": "Brown Food Mushroom",
+        "mod": "ic2"
+    },
+    {
+        "id": 29,
+        "name": "Aurelia",
+        "rus": "",
+        "tier": 8,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Gold Leaves Metal",
+        "mod": "ic2"
+    },
+    {
+        "id": 124,
+        "name": "Indigo",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 4,
+            "wee": 0
+        },
+        "attributes": "Flower Color Ingredient",
+        "mod": "gregtech"
+    },
+    {
+        "id": 125,
+        "name": "Flax",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 2,
+            "col": 0,
+            "wee": 1
+        },
+        "attributes": "Silk Vine Addictive",
+        "mod": "gregtech"
+    },
+    {
+        "id": 126,
+        "name": "Oilberries",
+        "rus": "",
+        "tier": 9,
+        "stats": {
+            "che": 6,
+            "foo": 1,
+            "def": 2,
+            "col": 1,
+            "wee": 12
+        },
+        "attributes": "Fire Dark Reed Rotten Coal Oil",
+        "mod": "gregtech"
+    },
+    {
+        "id": 127,
+        "name": "Bobsyeruncleranks",
+        "rus": "",
+        "tier": 11,
+        "stats": {
+            "che": 4,
+            "foo": 0,
+            "def": 8,
+            "col": 2,
+            "wee": 9
+        },
+        "attributes": "Silk Vine Addictive",
+        "mod": "gregtech"
+    },
+    {
+        "id": 128,
+        "name": "Diareed",
+        "rus": "",
+        "tier": 12,
+        "stats": {
+            "che": 5,
+            "foo": 0,
+            "def": 10,
+            "col": 2,
+            "wee": 10
+        },
+        "attributes": "Fire Shiny Reed Coal Diamond Crystal",
+        "mod": "gregtech"
+    },
+    {
+        "id": 129,
+        "name": "Withereed",
+        "rus": "",
+        "tier": 8,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 4,
+            "col": 1,
+            "wee": 3
+        },
+        "attributes": "Fire Undead Reed Coal Rotten Wither",
+        "mod": "gregtech"
+    },
+    {
+        "id": 130,
+        "name": "Blazereed",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 1,
+            "col": 0,
+            "wee": 0
+        },
+        "attributes": "Fire Blaze Reed Sulfur",
+        "mod": "gregtech"
+    },
+    {
+        "id": 131,
+        "name": "Eggplant",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 1,
+            "col": 0,
+            "wee": 0
+        },
+        "attributes": "Chicken Egg Edible Feather Flower Addictive",
+        "mod": "gregtech"
+    },
+    {
+        "id": 132,
+        "name": "Corium",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 0,
+            "foo": 2,
+            "def": 3,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Cow Silk Vine",
+        "mod": "gregtech"
+    },
+    {
+        "id": 133,
+        "name": "Corpseplant",
+        "rus": "",
+        "tier": 5,
+        "stats": {
+            "che": 0,
+            "foo": 2,
+            "def": 1,
+            "col": 0,
+            "wee": 3
+        },
+        "attributes": "Toxic Undead Vine Edible Rotten",
+        "mod": "gregtech"
+    },
+    {
+        "id": 134,
+        "name": "Creeperweed",
+        "rus": "",
+        "tier": 7,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 5,
+            "col": 1,
+            "wee": 3
+        },
+        "attributes": "Creeper Vine Explosive Fire Sulfur Saltpeter Coal",
+        "mod": "gregtech"
+    },
+    {
+        "id": 135,
+        "name": "Enderbloom",
+        "rus": "",
+        "tier": 10,
+        "stats": {
+            "che": 5,
+            "foo": 0,
+            "def": 2,
+            "col": 1,
+            "wee": 6
+        },
+        "attributes": "Ender Flower Shiny",
+        "mod": "gregtech"
+    },
+    {
+        "id": 136,
+        "name": "Meatrose",
+        "rus": "",
+        "tier": 7,
+        "stats": {
+            "che": 0,
+            "foo": 4,
+            "def": 1,
+            "col": 3,
+            "wee": 0
+        },
+        "attributes": "Edible Flower Cow Fish Chicken Pig",
+        "mod": "gregtech"
+    },
+    {
+        "id": 137,
+        "name": "Milkwart",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 0,
+            "foo": 3,
+            "def": 0,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Edible Milk Cow",
+        "mod": "gregtech"
+    },
+    {
+        "id": 138,
+        "name": "Slimeplant",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 0,
+            "col": 0,
+            "wee": 2
+        },
+        "attributes": "Slime Bouncy Sticky Bush",
+        "mod": "gregtech"
+    },
+    {
+        "id": 139,
+        "name": "Spidernip",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 2,
+            "foo": 1,
+            "def": 4,
+            "col": 1,
+            "wee": 3
+        },
+        "attributes": "Toxic Silk Spider Flower Ingredient Addictive",
+        "mod": "gregtech"
+    },
+    {
+        "id": 140,
+        "name": "Tearstalks",
+        "rus": "",
+        "tier": 8,
+        "stats": {
+            "che": 1,
+            "foo": 2,
+            "def": 0,
+            "col": 0,
+            "wee": 0
+        },
+        "attributes": "Healing Nether Ingredient Reed Ghast",
+        "mod": "gregtech"
+    },
+    {
+        "id": 141,
+        "name": "Tine",
+        "rus": "",
+        "tier": 5,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 3,
+            "col": 0,
+            "wee": 0
+        },
+        "attributes": "Shiny Metal Pine Tin Bush",
+        "mod": "gregtech"
+    },
+    {
+        "id": 142,
+        "name": "Coppon",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 1,
+            "col": 1,
+            "wee": 1
+        },
+        "attributes": "Shiny Metal Cotton Copper Bush",
+        "mod": "gregtech"
+    },
+    {
+        "id": 143,
+        "name": "BrownMushrooms",
+        "rus": "",
+        "tier": 1,
+        "stats": {
+            "che": 0,
+            "foo": 2,
+            "def": 0,
+            "col": 0,
+            "wee": 2
+        },
+        "attributes": "Edible Mushroom Ingredient",
+        "mod": "gregtech"
+    },
+    {
+        "id": 144,
+        "name": "RedMushrooms",
+        "rus": "",
+        "tier": 1,
+        "stats": {
+            "che": 0,
+            "foo": 1,
+            "def": 3,
+            "col": 0,
+            "wee": 2
+        },
+        "attributes": "Toxic Mushroom Ingredient",
+        "mod": "gregtech"
+    },
+    {
+        "id": 145,
+        "name": "Argentia",
+        "rus": "",
+        "tier": 7,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 1,
+            "col": 0,
+            "wee": 0
+        },
+        "attributes": "Shiny Metal Silver Reed",
+        "mod": "gregtech"
+    },
+    {
+        "id": 146,
+        "name": "Plumbilia",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 3,
+            "col": 1,
+            "wee": 1
+        },
+        "attributes": "Heavy Metal Lead Reed",
+        "mod": "gregtech"
+    },
+    {
+        "id": 147,
+        "name": "Steeleafranks",
+        "rus": "",
+        "tier": 10,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 7,
+            "col": 2,
+            "wee": 8
+        },
+        "attributes": "Metal Vine Iron",
+        "mod": "gregtech"
+    },
+    {
+        "id": 148,
+        "name": "Liveroots",
+        "rus": "",
+        "tier": 8,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 5,
+            "col": 2,
+            "wee": 6
+        },
+        "attributes": "Wood Vine",
+        "mod": "gregtech"
+    },
+    {
+        "id": 149,
+        "name": "Trollplant",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 0,
+            "foo": 0,
+            "def": 5,
+            "col": 2,
+            "wee": 8
+        },
+        "attributes": "Troll Bad Scrap",
+        "mod": "gregtech"
+    },
+    {
+        "id": 150,
+        "name": "Lazulia",
+        "rus": "",
+        "tier": 7,
+        "stats": {
+            "che": 4,
+            "foo": 2,
+            "def": 5,
+            "col": 7,
+            "wee": 4
+        },
+        "attributes": "Shiny Bad Crystal Lapis",
+        "mod": "gregtech"
+    },
+    {
+        "id": 151,
+        "name": "Glowheat",
+        "rus": "",
+        "tier": 10,
+        "stats": {
+            "che": 3,
+            "foo": 3,
+            "def": 3,
+            "col": 5,
+            "wee": 4
+        },
+        "attributes": "Light Shiny Crystal",
+        "mod": "gregtech"
+    },
+    {
+        "id": 153,
+        "name": "Fertilia",
+        "rus": "",
+        "tier": 3,
+        "stats": {
+            "che": 2,
+            "foo": 3,
+            "def": 5,
+            "col": 4,
+            "wee": 8
+        },
+        "attributes": "Growth Healing Flower",
+        "mod": "gregtech"
+    },
+    {
+        "id": 154,
+        "name": "Bauxia",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 5,
+            "foo": 0,
+            "def": 2,
+            "col": 3,
+            "wee": 3
+        },
+        "attributes": "Metal Aluminium Reed Aluminium",
+        "mod": "gregtech"
+    },
+    {
+        "id": 155,
+        "name": "Titania",
+        "rus": "",
+        "tier": 9,
+        "stats": {
+            "che": 5,
+            "foo": 0,
+            "def": 3,
+            "col": 3,
+            "wee": 1
+        },
+        "attributes": "Metal Heavy Reed Titanium",
+        "mod": "gregtech"
+    },
+    {
+        "id": 156,
+        "name": "Reactoria",
+        "rus": "",
+        "tier": 12,
+        "stats": {
+            "che": 4,
+            "foo": 0,
+            "def": 1,
+            "col": 2,
+            "wee": 1
+        },
+        "attributes": "Radioactive Metal Danger Uranium",
+        "mod": "gregtech"
+    },
+    {
+        "id": 157,
+        "name": "GodofThunder",
+        "rus": "",
+        "tier": 9,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 5,
+            "col": 1,
+            "wee": 2
+        },
+        "attributes": "Radioactive Metal Coal Thorium",
+        "mod": "gregtech"
+    },
+    {
+        "id": 158,
+        "name": "Transformium",
+        "rus": "",
+        "tier": 12,
+        "stats": {
+            "che": 5,
+            "foo": 2,
+            "def": 1,
+            "col": 6,
+            "wee": 1
+        },
+        "attributes": "Transform Coal Reed",
+        "mod": "gregtech"
+    },
+    {
+        "id": 159,
+        "name": "Starwart",
+        "rus": "",
+        "tier": 12,
+        "stats": {
+            "che": 2,
+            "foo": 0,
+            "def": 0,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Wither Nether Undead Netherstar",
+        "mod": "gregtech"
+    },
+    {
+        "id": 160,
+        "name": "Zomplant",
+        "rus": "",
+        "tier": 3,
+        "stats": {
+            "che": 1,
+            "foo": 3,
+            "def": 4,
+            "col": 2,
+            "wee": 6
+        },
+        "attributes": "Zombie Rotten Undead",
+        "mod": "gregtech"
+    },
+    {
+        "id": 161,
+        "name": "Nickelback",
+        "rus": "",
+        "tier": 5,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 1,
+            "col": 2,
+            "wee": 2
+        },
+        "attributes": "Metal Fire Alloy",
+        "mod": "gregtech"
+    },
+    {
+        "id": 162,
+        "name": "Galvania",
+        "rus": "",
+        "tier": 6,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 2,
+            "col": 2,
+            "wee": 3
+        },
+        "attributes": "Metal Alloy Bush",
+        "mod": "gregtech"
+    },
+    {
+        "id": 163,
+        "name": "EvilOre",
+        "rus": "",
+        "tier": 8,
+        "stats": {
+            "che": 4,
+            "foo": 0,
+            "def": 2,
+            "col": 1,
+            "wee": 3
+        },
+        "attributes": "Crystal Fire Nether",
+        "mod": "gregtech"
+    },
+    {
+        "id": 164,
+        "name": "Olivia",
+        "rus": "",
+        "tier": 2,
+        "stats": {
+            "che": 1,
+            "foo": 0,
+            "def": 1,
+            "col": 4,
+            "wee": 0
+        },
+        "attributes": "Crystal Shiny Processing Olivine",
+        "mod": "gregtech"
+    },
+    {
+        "id": 165,
+        "name": "Sapphirum",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 0,
+            "def": 1,
+            "col": 5,
+            "wee": 0
+        },
+        "attributes": "Crystal Shiny Metal Sapphire",
+        "mod": "gregtech"
+    },
+    {
+        "id": 166,
+        "name": "Pyrolusium",
+        "rus": "",
+        "tier": 12,
+        "stats": {
+            "che": 1,
+            "foo": 0,
+            "def": 1,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Metal Clean Bush Manganese",
+        "mod": "gregtech"
+    },
+    {
+        "id": 167,
+        "name": "Scheelinium",
+        "rus": "",
+        "tier": 12,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 1,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Metal Hard Bush Tungsten",
+        "mod": "gregtech"
+    },
+    {
+        "id": 168,
+        "name": "Platina",
+        "rus": "",
+        "tier": 11,
+        "stats": {
+            "che": 3,
+            "foo": 0,
+            "def": 0,
+            "col": 3,
+            "wee": 0
+        },
+        "attributes": "Metal Shiny Reed Platinum",
+        "mod": "gregtech"
+    },
+    {
+        "id": 169,
+        "name": "Quantaria",
+        "rus": "",
+        "tier": 12,
+        "stats": {
+            "che": 4,
+            "foo": 0,
+            "def": 0,
+            "col": 1,
+            "wee": 0
+        },
+        "attributes": "Metal Iridium Reed",
+        "mod": "gregtech"
+    },
+    {
+        "id": 170,
+        "name": "Stargatium",
+        "rus": "",
+        "tier": 12,
+        "stats": {
+            "che": 4,
+            "foo": 0,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Metal Heavy Alien Naquadah",
+        "mod": "gregtech"
+    },
+    {
+        "id": 171,
+        "name": "Lemon",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Food Tree Sour",
+        "mod": "gregtech"
+    },
+    {
+        "id": 172,
+        "name": "Chilly",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Food Spicy",
+        "mod": "gregtech"
+    },
+    {
+        "id": 173,
+        "name": "Tomato",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Food",
+        "mod": "gregtech"
+    },
+    {
+        "id": 174,
+        "name": "Grape",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Food",
+        "mod": "gregtech"
+    },
+    {
+        "id": 175,
+        "name": "Onion",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Food",
+        "mod": "gregtech"
+    },
+    {
+        "id": 176,
+        "name": "Cucumber",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Food",
+        "mod": "gregtech"
+    },
+    {
+        "id": 177,
+        "name": "Tea",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Food",
+        "mod": "gregtech"
+    },
+    {
+        "id": 178,
+        "name": "Rape",
+        "rus": "",
+        "tier": 4,
+        "stats": {
+            "che": 1,
+            "foo": 1,
+            "def": 0,
+            "col": 2,
+            "wee": 0
+        },
+        "attributes": "Food Oil",
+        "mod": "gregtech"
+    }
+]
+    
