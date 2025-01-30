@@ -1,0 +1,30 @@
+Name;Discovered By;Seed;Drops;Tier;Attributes;Growth Stages;GS After Harvest;Relative Speed;Internal Name;Notes
+Aurelia;IC2 Team;;Aurelia Leaves (for Gold);8;Gold, Leaves, Metal;5;2;Stages 1-3: 750 Stage 4: 2200;aurelia;Requires Gold Ore (Vanilla) or Block of Gold underneath farm block to fully mature.
+Blackthorn;Alblaka;;Ink Sac;2;Black, Flower, Rose;4;3;Stages 1-2: 400 Stage 3: 600;blackthorn;Light level of at least 12.
+Brown Mushroom;IC2 Team;;Mushroom (Brown);2;Brown, Food, Mushroom;3;1;Stages 1-2: 200;Brown Mushrooms;Must be hydrated.
+Carrots;IC2 Team;Carrots;Carrots;2;Orange, Food, Carrots;3;1;Stages 1-2: 400;carrots;Light level of at least 12.
+Cocoa;Notch;Cocoa;Cocoa;3;Brown, Food, Stem;4;3;Stages 1-2: 400 Stage 3: 900;cocoa;Nutrients of at least 3.
+Coffee;Snoochy;Coffee Beans;Coffee Beans;7;Leaves, Ingredient, Beans;5;3;Stages 1-2: 1400 Stage 3: 700 Stage 4: 2100;coffee;"Light level of at least 9. Can be ""harvested"" at stage 4, but will give nothing."
+Cyazint;Alblaka;;Cyan Dye;2;Blue, Flower;4;3;Stages 1-2: 400 Stage 3: 600;cyazint;Light level of at least 12.
+Cyprium;IC2 Team;;Tiny Pile of Copper Dust;6;Orange, Leaves, Metal;4;2;Stages 1-2: 800 Stage 3: 2000;cyprium;Requires Copper Block underneath farm block to fully mature.
+Dandelion;Notch;Dandelionx4;Dandelion Yellow;2;Yellow, Flower;4;3;Stages 1-2: 400 Stage 3: 600;dandelion;Light level of at least 12.
+Eating Plant;Hasudako;;Cactus;6;Bad, Food;6;1;Stages 1-5: 1200 Grows 1.5x faster in swamp or mountain Gets extra speed bonus from air quality;eatingplant;Requires Lava (can be flow block) underneath farm block to fully mature. Light level of at least 10. Will attack the player if not wearing metal armor (Not working?) and drop Rotten Flesh. Attacks mobs too. Optimal harvest at stage 4, can still be harvested at stage 5, cannot be harvested at stage 6.
+Ferru;IC2 Team;;Ferru Leaves (for Iron);6;Gray, Leaves, Metal;4;2;Stages 1-2: 800 Stage 3: 2000;ferru;Requires Iron Ore (Vanilla) or Block of Iron underneath farm block to fully mature.
+Hops;IC2 Team;;Hops;5;Green, Ingredient, Wheat;7;3;Stages 1-6: 600;hops;Light level of at least 9.
+Melon;Chao;Melon Seeds;Melon(Item), Melon(Block);2;Green, Food, Stem;4;3;Stages 1-2: 250 Stage 3: 700;melon;
+Nether Wart;Notch;Nether Wart;Nether Wart;5;Red, Nether, Ingredient, Soulsand;3;1;Stages 1-2: 1000;netherWart;Grows faster with Soul Sand under it. Turns into Terra Wart if there is Snow under it.
+Plumbiscus;IC2 Team;;Tiny Pile of Lead Dust;6;Dense, Leaves, Metal;4;2;Stages 1-2: 800 Stage 3: 2000;plumbiscus;Requires Lead Block underneath farm block to fully mature.
+Potato;IC2 Team;Potato;Potato, Poisonous Potato;2;Yellow, Food, Potato;4;1;Stages 1-3: 400;potato;Light level of at least 9. Must be harvested early or it will drop Poisonous Potato.
+Pumpkin;Notch;Pumpkin Seeds;Pumpkin;1;Orange, Decoration, Stem;4;3;Stages 1-2: 200 Stage 3: 600;pumpkin;
+Red Mushroom;IC2 Team;;Mushroom (Red);2;Red, Food, Mushroom;3;1;Stages 1-2: 200;Red Mushrooms;Must be hydrated.
+Redwheat;raa1337;;Redstone, Wheat;6;Red, Redstone, Wheat;7;2;Stages 1-6: 600;redwheat;Light level between 5 and 10 inclusive. May drop Wheat if not powered by Redstone. Not worth it.
+Reed;Notch;Sugar Canes;Sugar Canes;2;Reed;3;1;Stages 1-2: 200;reed;Harvestable early.
+Rose;Notch;Poppyx4;Rose Red;2;Red, Flower, Rose;4;3;Stages 1-2: 400 Stage 3: 600;rose;Light level of at least 12. Other vanilla flowers that aren't Dandelion also work as seeds.
+Shining;IC2 Team;;Tiny Pile of Silver Dust;8;Silver, Leaves, Metal;5;2;Stages 1-3: 750 Stage 4: 2200;shining;
+Stagnium;IC2 Team;;Tiny Pile of Tin Dust;6;Shiny, Leaves, Metal;4;2;Stages 1-2: 800 Stage 3: 2000;stagnium;Requires Tin Block underneath farm block to fully mature.
+Stickreed;raa1337;;Sugar Canes, Sticky Resin;4;Reed, Resin;4;1/2/3;Stages 1-3: 100;stickreed;Drops Sticky Resin only when mature. Drops Sugar Canes at stage 2/3. Harvest changes to a random Growth Stage less than the current one. Alternative for Rubber Trees.
+Terra Wart;IC2 Team;Terra Wart;Terra Wart;5;Blue, Aether, Consumable, Snow;3;1;Stages 1-2: 1000;terraWart;Grows faster with Snow under it. Turns into Nether Wart if there is Soul Sand under it. Cures negative debuffs, while leaving positive ones, and stacks to 64.
+Tulip;Alblaka;;Purple Dye;2;Purple, Flower, Tulip;4;3;Stages 1-2: 400 Stage 3: 600;tulip;Light level of at least 12.
+Venomilia;raGan;;Purple Dye/Grin Powder;3;Purple, Flower, Tulip, Poison;6;3;Stages 1-2: 400 Stages 3-5: 600;venomilia;Light level of at least 12. Only drops Grin Powder during stage 5, at which point the plant is poisonous to touch unless sneaking. Drops Purple Dye at stage 4/6. Acts like a weed at Growth 8+.
+Weed;IC2 Crop;;Weed;0;Weed, Bad;5;-;Stages 1-4: 300;weed;"Can only be harvested with Weeding Trowel or Spade; Spreads Weeds to neighboring Crops (same y-level, cardinal directions), reverts Farmland to Grass Blocks and spreads Grass. Harvest to get rid of."
+Wheat;Notch;Seeds (Wheat);Wheat;1;Yellow, Food, Wheat;7;2;Stages 1-6: 200;wheat;Light level of at least 9.

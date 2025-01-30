@@ -136,7 +136,7 @@
     },
     {
         "id": 10,
-        "name": "RedMushroom",
+        "name": "Red Mushroom",
         "rus": "",
         "tier": 2,
         "stats": {
@@ -406,7 +406,7 @@
     },
     {
         "id": 28,
-        "name": "BrownMushroom",
+        "name": "Brown Mushroom",
         "rus": "",
         "tier": 2,
         "stats": {
@@ -721,7 +721,7 @@
     },
     {
         "id": 143,
-        "name": "BrownMushrooms",
+        "name": "Brown Mushrooms",
         "rus": "",
         "tier": 1,
         "stats": {
@@ -736,7 +736,7 @@
     },
     {
         "id": 144,
-        "name": "RedMushrooms",
+        "name": "Red Mushrooms",
         "rus": "",
         "tier": 1,
         "stats": {
@@ -916,7 +916,7 @@
     },
     {
         "id": 157,
-        "name": "GodofThunder",
+        "name": "God of Thunder",
         "rus": "",
         "tier": 9,
         "stats": {
@@ -1006,7 +1006,7 @@
     },
     {
         "id": 163,
-        "name": "EvilOre",
+        "name": "Evil Ore",
         "rus": "",
         "tier": 8,
         "stats": {
